@@ -2,7 +2,7 @@
 
 확인일: 2026-10-05. [Kakao Developers 공식 문서](https://developers.kakao.com/docs/ko/kakaomoment/bizformplus). 구현할 때 최신 인증·오류·쿼터 문서도 확인한다.
 
-|계약|값|
+|사용 규격|값|
 |---|---|
 |메서드|GET|
 |엔드포인트|https://apis.moment.kakao.com/openapi/v4/adAccounts/bizFormPlus/report|
