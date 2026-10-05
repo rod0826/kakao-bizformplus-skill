@@ -1,0 +1,6 @@
+interface:
+  display_name: "비즈니스폼+ 만들기"
+  short_description: "카카오모먼트 비즈니스폼+ 설문 제작과 권한·알림·보고서 관리"
+  default_prompt: "$kakao-bizformplus 스킬로 행사 목적에 맞는 비즈니스폼+를 만들고 저장 상태까지 확인해줘."
+policy:
+  allow_implicit_invocation: true
